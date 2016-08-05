@@ -1,0 +1,23 @@
+[Eagle]
+Version="06 05 00"
+Platform="Windows"
+Serial="6E23A2A2B2-LSR-WLM-1EP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="M:/public/jonnew-lbr/eagle/lib/jonnew.lbr"
+UsedLibrary="M:/public/open-ephys/headstage/2x64_Omnetics_Intan/RHD2000_eval_board.lbr"
+UsedLibrary="M:/public/open-ephys/headstage/2x64_Omnetics_Intan/harrison.lbr"
+UsedLibrary="M:/public/open-ephys/headstage/2x64_Omnetics_Intan/RHD2000.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="976 0 1919 1001"
+State=3
+Number=0
+
+[Desktop]
+Screen="3840 1080"
+Window="Win_1"
